@@ -1,0 +1,16 @@
+mongo:
+  uri: 'mongodb://localhost:27017/'
+
+redis:
+  host: 'redis-main.msghub-qa.uplus.co.kr'
+  port: 46379
+  db: 0
+
+mysql:
+  host: 'mysql.msghub-qa.uplus.co.kr'
+  port: 43306
+  user: 'cm'
+  password: 'aptlwld123'
+  db: 'cm'
+  charset: 'utf8'
+
